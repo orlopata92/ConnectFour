@@ -1,0 +1,17 @@
+﻿  Board.c
+  LinkedList.c
+c:\users\אור\dropbox\שנה 4\introductiontoprogrammingsystems\ex4\ex4\ex4\linkedlist.c(10): warning C4013: 'malloc' undefined; assuming extern returning int
+c:\users\אור\dropbox\שנה 4\introductiontoprogrammingsystems\ex4\ex4\ex4\linkedlist.c(29): warning C4013: 'strcpy' undefined; assuming extern returning int
+c:\users\אור\dropbox\שנה 4\introductiontoprogrammingsystems\ex4\ex4\ex4\linkedlist.c(60): warning C4013: 'free' undefined; assuming extern returning int
+  Messages.c
+  SocketClient.c
+c:\users\אור\dropbox\שנה 4\introductiontoprogrammingsystems\ex4\ex4\ex4\socketclient.c(384): warning C4013: 'close' undefined; assuming extern returning int
+c:\users\אור\dropbox\שנה 4\introductiontoprogrammingsystems\ex4\ex4\ex4\socketclient.c(559): warning C4013: 'gets' undefined; assuming extern returning int
+  SocketSendRecieve.c
+  SocketServer.c
+c:\users\אור\dropbox\שנה 4\introductiontoprogrammingsystems\ex4\ex4\ex4\socketserver.c(160): warning C4020: 'WriteToLogFile': too many actual parameters
+c:\users\אור\dropbox\שנה 4\introductiontoprogrammingsystems\ex4\ex4\ex4\socketserver.c(281): warning C4101: 'Ind': unreferenced local variable
+  main.c
+c:\users\אור\dropbox\שנה 4\introductiontoprogrammingsystems\ex4\ex4\ex4\main.c(8): warning C4013: 'strcmp' undefined; assuming extern returning int
+  Generating Code...
+  ex4.vcxproj -> C:\Users\אור\Dropbox\שנה 4\introductionToProgrammingSystems\ex4\ex4\Debug\ex4.exe
